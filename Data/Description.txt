@@ -1,0 +1,9 @@
+Reference: 
+Calluso, Cinzia (2020), “Distinct patterns of cognitive conflict dynamics in promise keepers and promise breakers”, Mendeley Data, V1, doi: 10.17632/6gphjrkjtd.1
+DOI: 10.17632/6gphjrkjtd.1
+
+Description:
+The data-set contains the data from 48 participants which took part in the study. Each file contains both behavioral and mouse tracking data.
+
+Filetypes: csv
+Filecount: 48
