@@ -1,5 +1,6 @@
 This is a project for the Action and Cognition: Computational Cognition Course.
-The focus is to explore **mouse-tracking technique** which provides an accessible experimental technique **to study conflict in decision making**. 
+
+Our focus is to explore **the mouse-tracking method** which provides an accessible experimental technique **to study conflict in decision making**. 
 
 We used data published by Caruso et al, at https://data.mendeley.com/datasets/6gphjrkjtd/1 from a Promise Decision task, developed to explore promise keeping and promise breaking behaviour in humans. 
 
