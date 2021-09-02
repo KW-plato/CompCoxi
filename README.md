@@ -15,10 +15,15 @@ Key questions:
 Overview of the project workflow:
 
 a. Collated the data, cleaned the data(removed obvious errors) and transformed relevant fields to ensure we can analyse features we wanted. A definition of key data-fields is in the notebook. 
+
 b. Performed exploratory analysis to understand the main behavioral patterns
+
 c. Calculated specific metrics to quantify the mouse trajectories and explored patterns in mouse trajectories
+
 d. Ran statistical tests to validate key hypothesis
+
 e. Explored methodological issues concerning mouse-tracking
+
 
 -Ali and Saurabh
 
